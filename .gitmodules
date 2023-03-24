@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CCA"]
+	path = CCA
+	url = https://github.com/cran/CCA
+	shallow = true
+	registered = true
+[submodule "WallomicsData"]
+	path = WallomicsData
+	url = https://github.com/cran/WallomicsData
+	shallow = true
+	registered = true
